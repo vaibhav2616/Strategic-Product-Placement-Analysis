@@ -20,7 +20,6 @@ Promotional Bins: Special, temporary displays.
 
 The analysis seeks to identify the most profitable strategies, understand their impact across different store locations and product categories, and ultimately provide recommendations to maximize return on investment (ROI) for in-store marketing efforts.
 
-
 💡 Key Insights & Business Recommendations
 
 The analysis uncovered several actionable insights:
