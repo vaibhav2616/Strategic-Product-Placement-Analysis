@@ -21,7 +21,6 @@ Promotional Bins: Special, temporary displays.
 The analysis seeks to identify the most profitable strategies, understand their impact across different store locations and product categories, and ultimately provide recommendations to maximize return on investment (ROI) for in-store marketing efforts.
 
 
-
 💡 Key Insights & Business Recommendations
 
 The analysis uncovered several actionable insights:
@@ -55,8 +54,3 @@ A/B Testing Analysis: Integrate data from controlled A/B tests to add statistica
 Inventory & Stock-Out Correlation: Add inventory data to analyze how stock levels affect sales performance for each placement type.
 
 Predictive Analytics: Develop a model to forecast sales uplift based on a proposed placement strategy for a new product.
-
-
-📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
